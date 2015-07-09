@@ -44,4 +44,4 @@ Harding quotes Vasama Brown, a trapper. His words express a sentiment also found
 
 "It is considered that the cayote, and the obscene bird, and the Indian of the desert, testify their blood kinship with each other in that they live together in the waste places of the earth on terms of perfect confidence and friendship, while hating all other creature and yearning to assist at their funerals." 
 
-- Twain, *Roughing it*
+Twain, *Roughing it*
