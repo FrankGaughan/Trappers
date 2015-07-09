@@ -4,15 +4,6 @@ FG Note:
 The images of coyotes in the books are of poor quality, but the book cover might make an interesting thumbnail:  https://goo.gl/KOlim3
 ***
 
-***
-Note
-Harding's text provides extended quotations from several trappers. The following excerpt is remarkably similar to lines found in Twain’s *Roughin’ It*, also in this collection.
-
-“The coyote bears the same relation to the wolf family that the Apache Indian does to the human race. It is a belief among some of the Apaches that they turn into coyotes when they depart this life, and nothing will induce one of them to kill a coyote. Like the Indian he is sneaky and treacherous, and full of the devil." - Harding. *Wolf and Coyote Trapping,* quoting Vasama Brown, trapper. 
-
-"It is considered that the cayote, and the obscene bird, and the Indian of the desert, testify their blood kinship with each other in that they live together in the waste places of the earth on terms of perfect confidence and friendship, while hating all other creature and yearning to assist at their funerals."  - Twain, *Roughing it*
-***
-
 **Chapter 3**
 
 In the western parts of the United States, the coyote is far more abundant than the grey, or timber wolf, but its range is more limited as it is found only in those parts lying west of the Mississippi River and in the western portion of the  Dominion of Canada. As there are a  number of varieties of the timber wolf, so it is with the coyote, but naturalists have never yet been able to agree on the  number of types and their distribution. In the Southwest, it appears there are several distinct varieties, showing considerable difference in size and color. Mr. Vasma Brown, a noted coyote trapper of Texas has the following to say on the subject:
@@ -23,7 +14,7 @@ In the western parts of the United States, the coyote is far more abundant than 
 
 Coyotes are intelligent and cunning animals and their habits and general appearance suggest the fox rather than the wolf. While they are greedy, bloodthirsty creatures, they are sneaking and cowardly and never kill animals larger than deer, in fact they rarely attack such large game. An Arizona trapper writes
 
-"The coyote bears the same relation to the wolf family that the Apache Indian does to the human race. It is a belief among some of the Apaches that they turn into coyotes when they depart this life, and nothing will induce one of them to kill a coyote. Like the Indian he is sneaky and treacherous, and full of the devil."
+"The coyote bears the same relation to the wolf family that the Apache Indian does to the human race. It is a belief among some of the Apaches that they turn into coyotes when they depart this life, and nothing will induce one of them to kill a coyote. Like the Indian he is sneaky and treacherous, and full of the devil." <sup>[1](#myfootnote1)</sup>
 
 While there is no doubt that the animal enjoys its wild, free life, it always has a miserable, distressed expression. It carries its tail in a drooping manner and slinks out of sight like a dog that has been doing wrong and has a troubled conscience. The high piercing cry of the animal, which is so different from the deep bass note of the timber wolf, is mournful in the extreme. In the morning before the coyotes retire for the day, they stop on the top of some elevation and  sound their “reveille", which once heard will never be forgotten. It is a shrill, piercing note, combining a howl with a bark and although in all probability there will be only a pair of the animals, one who does not know would be inclined to think that the number is larger, the notes are so commingled. Coyotes live in natural dens in the rocks, also in dens of badgers, in the prairie country. In the "Bad Lands"  of the West and the foot hills of the mountain ranges, wind worn holes in the rim-rock and buttes are quite common and the animals have no trouble in securing a good den. 
 
@@ -45,6 +36,12 @@ Coyotes have a  more regular breeding season than the timber wolves, for practic
 
 As before mentioned, the coyote is a wary and cunning animal, especially in the  more settled portions of its range; where man is not too much in evidence, they are far less wary. Again the fact that there are several varieties may account for the difference in the nature of the animals of the various sections, anyway those of the southern part of the range are less  wary than those of the North.  The trappers of Texas, Arizona and New Mexico claim that the coyote is a fool and is easily caught while those of the North and Northwest find them exceedingly cunning and intelligent.  Not only does the animal appear to know  when you are armed but it also seems to know something of the range of the weapon and will sneak along provokingly close, but just out of reach. When one is  unarmed they appear to be more bold and will loaf around in the most unconcerned  manner imaginable.
 
-In intelligence and cunning, we, consider the northern coyote the equal of the eastern red fox. While the western trappers make very large catches of coyotes, we believe that if foxes were found in equal numbers the catches of those animals would be fully as large.  The number of coyotes found in  some parts of the  West is almost incredible, and in most parts one will find a hundred coyotes to one grey wolf.
+In intelligence and cunning, we, consider the northern coyote the equal of the eastern red fox. While the western trappers make very large catches of coyotes, we believe that if foxes were found in equal numbers the catches of those animals would be fully as large.  The number of coyotes found in  some parts of the  West is almost incredible, and in most parts one will find a hundred coyotes to one grey wolf. The coyote  makes a track similar to that of the timber wolf, but considerably smaller.  The length of step, when walking, is about sixteen inches and the footprints will measure about two or two and a fourth inches in length by one and a half in width.
+***
 
-The coyote  makes a track similar to that of the timber wolf, but considerably smaller.  The length of step, when walking, is about sixteen inches and the footprints will measure about two or two and a fourth inches in length by one and a half in width.
+<a name="myfootnote1">1</a>: 
+Harding quotes Vasama Brown, a trapper. His words express a sentiment also found in Twain's *Roughin It,* (also included in this collection). 
+
+"It is considered that the cayote, and the obscene bird, and the Indian of the desert, testify their blood kinship with each other in that they live together in the waste places of the earth on terms of perfect confidence and friendship, while hating all other creature and yearning to assist at their funerals." 
+
+- Twain, *Roughing it*
