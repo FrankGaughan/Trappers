@@ -1,5 +1,4 @@
-A. R. Harding. *Steel Traps: Describes the Various Makes and Tells How to Use Them, Also Chapters on Care of Pelts, Etc.* 
-Copyright 1907  http://www.gutenberg.org/files/34229/34229-h/34229-h.htm.
+A. R. Harding. *Steel Traps: Describes the Various Makes and Tells How to Use Them, Also Chapters on Care of Pelts, Etc.*  1907. A Project Gutenberg eBook.  http://www.gutenberg.org/files/34229/34229-h/34229-h.htm.
 
 ***
 Excerpts specific to coyote are represented below. The text includes an image of a Newhouse # 4 trap, frequently used for trapping wolves and coyotes. The associated image is here: http://coyote.omeka.net/admin/items/show/69
